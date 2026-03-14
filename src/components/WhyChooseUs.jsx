@@ -71,11 +71,11 @@ export default function WhyChooseUs() {
             </p>
             <div className="why__stats">
               <div className="why__stat">
-                <span className="why__stat-num">1,000+</span>
+                <span className="why__stat-num">100+</span>
                 <span className="why__stat-label">Properties Managed</span>
               </div>
               <div className="why__stat">
-                <span className="why__stat-num">£2,500+</span>
+                <span className="why__stat-num">£1,500+</span>
                 <span className="why__stat-label">Average Monthly Earnings</span>
               </div>
             </div>
