@@ -24,7 +24,7 @@ export default function Header() {
       <div className="container header__inner">
         <a href="/" className="header__logo">
           <span className="logo-hello">KARM</span>
-          <span className="logo-guest"> LIVING</span>
+          <span className="logo-guest"> LIVING Lettings </span>
         </a>
 
         <nav className={`header__nav ${menuOpen ? 'header__nav--open' : ''}`}>
