@@ -10,8 +10,12 @@ const serviceLinks = [
 ]
 
 const locationLinks = [
-  'London',
-  'Reading',
+  'Oxford Road, Reading',
+  'Crossland Road, Reading',
+  'Kings Road, Reading',
+  'Southampton Street, Reading',
+  'Eldon Road, Reading',
+  'Knossington Close, Lower Earley',
 ]
 
 const companyLinks = [
@@ -94,7 +98,7 @@ export default function Footer() {
           </div>
 
           <div className="footer__links-group">
-            <h4 className="footer__links-title">Locations</h4>
+            <h4 className="footer__links-title">Our Properties</h4>
             <ul className="footer__links-list">
               {locationLinks.map(link => (
                 <li key={link}>
@@ -102,7 +106,7 @@ export default function Footer() {
                 </li>
               ))}
               <li>
-                <a href="#" className="footer__link footer__link--more">View all locations →</a>
+                <a href="#locations" className="footer__link footer__link--more">View all properties →</a>
               </li>
             </ul>
           </div>
