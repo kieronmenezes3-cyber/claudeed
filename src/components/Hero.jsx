@@ -24,17 +24,17 @@ export default function Hero() {
         </h1>
         <p className="hero__subtitle">
           We handle everything — from listing creation and guest communication to cleaning
-          and maintenance. All for just <strong>from 12% commission</strong>. No lock-in contracts.
+          and maintenance. All for just <strong>from 12% commission</strong>.
         </p>
 
         <div className="hero__stats">
           <div className="hero__stat">
-            <span className="hero__stat-number">94%</span>
+            <span className="hero__stat-number">92%</span>
             <span className="hero__stat-label">Average Occupancy Rate</span>
           </div>
           <div className="hero__stat-divider"></div>
           <div className="hero__stat">
-            <span className="hero__stat-number">95%</span>
+            <span className="hero__stat-number">100%</span>
             <span className="hero__stat-label">Positive Reviews</span>
           </div>
           <div className="hero__stat-divider"></div>
@@ -78,7 +78,7 @@ export default function Hero() {
             <svg width="18" height="18" viewBox="0 0 24 24" fill="var(--color-accent)">
               <path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/>
             </svg>
-            40+ booking platforms
+            20+ booking platforms
           </div>
         </div>
       </div>
