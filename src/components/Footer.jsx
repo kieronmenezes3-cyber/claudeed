@@ -2,8 +2,8 @@ import './Footer.css'
 
 const serviceLinks = [
   'Airbnb Management',
-  'Holiday Let Management',
-  'Short-term Let Management',
+  'HMO Specalist',
+  'Single Lets',
   'Pricing & Fees',
   'How It Works',
   'Property Photography',
@@ -11,13 +11,7 @@ const serviceLinks = [
 
 const locationLinks = [
   'London',
-  'Edinburgh',
-  'Manchester',
-  'Brighton',
-  'Bath',
-  'Bristol',
-  'Oxford',
-  'Liverpool',
+  'Reading'',
 ]
 
 const companyLinks = [
