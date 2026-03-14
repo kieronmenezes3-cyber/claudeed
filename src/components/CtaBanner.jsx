@@ -27,7 +27,7 @@ export default function CtaBanner() {
               placeholder="Your postcode"
               className="cta-banner__input"
             />
-            <a href="tel:02080898898" className="btn btn-primary cta-banner__btn">
+            <a href="tel:07413083669" className="btn btn-primary cta-banner__btn">
               Get Free Valuation
             </a>
           </div>
