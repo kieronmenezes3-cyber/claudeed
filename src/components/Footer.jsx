@@ -11,7 +11,7 @@ const serviceLinks = [
 
 const locationLinks = [
   'London',
-  'Reading'
+  'Reading',
 ]
 
 const companyLinks = [
