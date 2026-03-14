@@ -24,7 +24,7 @@ export default function Hero() {
         </h1>
         <p className="hero__subtitle">
           We handle everything — from listing creation and guest communication to cleaning
-          and maintenance. All for just <strong>12% commission</strong>. No lock-in contracts.
+          and maintenance. All for just <strong>from 12% commission</strong>. No lock-in contracts.
         </p>
 
         <div className="hero__stats">
