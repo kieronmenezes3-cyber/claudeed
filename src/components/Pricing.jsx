@@ -120,8 +120,8 @@ export default function Pricing() {
                 </svg>
               </div>
               <div className="pricing__award-text">
-                <strong>Airbnb Hosting Excellence Award</strong>
-                <span>Northern Europe Professional Host Summit 2024</span>
+                <strong>Airbnb and HMO Experts</strong>
+                <span>Specialists in short-lets and HMO property management</span>
               </div>
             </div>
           </div>

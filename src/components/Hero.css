@@ -43,9 +43,9 @@
   display: inline-flex;
   align-items: center;
   gap: 8px;
-  background: rgba(46, 204, 113, 0.2);
-  border: 1px solid rgba(46, 204, 113, 0.4);
-  color: #7df3a5;
+  background: rgba(26, 143, 227, 0.2);
+  border: 1px solid rgba(26, 143, 227, 0.4);
+  color: #7dd4f8;
   font-size: 13px;
   font-weight: 600;
   padding: 6px 14px;
@@ -138,12 +138,12 @@
   padding: 16px 32px;
   font-size: 16px;
   background: var(--color-accent);
-  box-shadow: 0 4px 20px rgba(46, 204, 113, 0.4);
+  box-shadow: 0 4px 20px rgba(26, 143, 227, 0.4);
 }
 
 .hero__btn-main:hover {
   background: var(--color-accent-dark);
-  box-shadow: 0 6px 25px rgba(46, 204, 113, 0.5);
+  box-shadow: 0 6px 25px rgba(26, 143, 227, 0.5);
   transform: translateY(-2px);
 }
 

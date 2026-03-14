@@ -9,9 +9,9 @@
 :root {
   --color-primary: #1a3c5e;
   --color-primary-dark: #122d48;
-  --color-accent: #2ecc71;
-  --color-accent-dark: #27ae60;
-  --color-accent-light: #e8f8ef;
+  --color-accent: #1a8fe3;
+  --color-accent-dark: #1270b8;
+  --color-accent-light: #e8f4fd;
   --color-text: #43464F;
   --color-text-light: #666;
   --color-text-muted: #999;
@@ -126,7 +126,7 @@ img {
   background: var(--color-accent-dark);
   border-color: var(--color-accent-dark);
   transform: translateY(-1px);
-  box-shadow: 0 4px 15px rgba(46, 204, 113, 0.4);
+  box-shadow: 0 4px 15px rgba(26, 143, 227, 0.4);
 }
 
 .btn-outline {

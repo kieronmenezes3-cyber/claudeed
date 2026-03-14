@@ -6,7 +6,7 @@ export default function Hero() {
       <div className="hero__bg">
         <div className="hero__overlay"></div>
         <img
-          src="https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1600&q=80&auto=format&fit=crop"
+          src="https://images.unsplash.com/photo-1486325212027-8081e485255e?w=1600&q=80&auto=format&fit=crop"
           alt="Beautiful property managed by KARM LIVING"
           className="hero__image"
         />
@@ -16,7 +16,7 @@ export default function Hero() {
           <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
             <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
           </svg>
-          Airbnb Hosting Excellence Award 2024
+          Airbnb and HMO Experts
         </div>
         <h1 className="hero__title">
           Full Service Airbnb<br />

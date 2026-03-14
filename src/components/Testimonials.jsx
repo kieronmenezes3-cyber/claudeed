@@ -7,7 +7,7 @@ const reviews = [
     location: 'London',
     rating: 5,
     date: 'December 2024',
-    text: 'The best of the 3 short let agencies I have used by such a distance it is simply embarrassing. They won an award last year as the best Airbnb agency in Northern Europe and it\'s completely deserved. My earnings have gone up significantly.',
+    text: 'The best of the 3 short let agencies I have used by such a distance it is simply embarrassing. Their expertise across Airbnb and HMO is second to none and it\'s completely deserved. My earnings have gone up significantly.',
     property: '2-bed apartment, Kensington',
     avatar: 'JH',
   },
