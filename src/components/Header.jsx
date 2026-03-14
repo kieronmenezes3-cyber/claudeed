@@ -23,8 +23,8 @@ export default function Header() {
     <header className={`header ${scrolled ? 'header--scrolled' : ''}`}>
       <div className="container header__inner">
         <a href="/" className="header__logo">
-          <span className="logo-hello">Hello</span>
-          <span className="logo-guest">Guest</span>
+          <span className="logo-hello">KARM</span>
+          <span className="logo-guest"> LIVING</span>
         </a>
 
         <nav className={`header__nav ${menuOpen ? 'header__nav--open' : ''}`}>

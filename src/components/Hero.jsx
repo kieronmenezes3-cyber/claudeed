@@ -7,7 +7,7 @@ export default function Hero() {
         <div className="hero__overlay"></div>
         <img
           src="https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=1600&q=80&auto=format&fit=crop"
-          alt="Beautiful property managed by HelloGuest"
+          alt="Beautiful property managed by KARM LIVING"
           className="hero__image"
         />
       </div>

@@ -43,8 +43,8 @@ export default function Footer() {
         <div className="container footer__top-inner">
           <div className="footer__brand">
             <a href="/" className="footer__logo">
-              <span className="logo-hello">Hello</span>
-              <span className="logo-guest-footer">Guest</span>
+              <span className="logo-hello">KARM</span>
+              <span className="logo-guest-footer"> LIVING</span>
             </a>
             <p className="footer__tagline">
               The UK's leading full-service Airbnb management company. We handle everything
@@ -57,11 +57,11 @@ export default function Footer() {
                 </svg>
                 0208 089 8898
               </a>
-              <a href="mailto:hello@helloguest.co.uk" className="footer__contact-item">
+              <a href="mailto:hello@karmliving.co.uk" className="footer__contact-item">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
                   <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
                 </svg>
-                hello@helloguest.co.uk
+                hello@karmliving.co.uk
               </a>
             </div>
             <div className="footer__social">
@@ -129,7 +129,7 @@ export default function Footer() {
       <div className="footer__bottom">
         <div className="container footer__bottom-inner">
           <p className="footer__copy">
-            © {new Date().getFullYear()} HelloGuest Ltd. All rights reserved. Registered in England & Wales.
+            © {new Date().getFullYear()} KARM LIVING Ltd. All rights reserved. Registered in England & Wales.
           </p>
           <div className="footer__legal">
             {legalLinks.map(link => (

@@ -30,7 +30,7 @@ export default function HowItWorks() {
           <span className="section-label">The Process</span>
           <h2 className="section-title">How It Works</h2>
           <p className="section-subtitle">
-            Getting started with HelloGuest is simple. We make the process as straightforward
+            Getting started with KARM LIVING is simple. We make the process as straightforward
             as possible so your property starts earning quickly.
           </p>
         </div>

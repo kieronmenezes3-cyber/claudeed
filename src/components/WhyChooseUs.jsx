@@ -63,8 +63,8 @@ export default function WhyChooseUs() {
       <div className="container">
         <div className="why__layout">
           <div className="why__left">
-            <span className="section-label">Why HelloGuest</span>
-            <h2 className="section-title">The UK's Leading Airbnb Management Service</h2>
+            <span className="section-label">Why KARM LIVING</span>
+            <h2 className="section-title">KARM LIVING — Premium Airbnb Management</h2>
             <p className="section-subtitle" style={{ marginBottom: '32px' }}>
               We've been managing short-let properties since Airbnb first launched in the UK.
               Our experience, technology, and dedication set us apart from the competition.

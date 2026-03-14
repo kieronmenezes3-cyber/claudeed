@@ -16,7 +16,7 @@ const reviews = [
     location: 'Edinburgh',
     rating: 5,
     date: 'November 2024',
-    text: 'HelloGuest have managed my Edinburgh flat for over 2 years now. The communication is excellent, the cleaning is always immaculate, and the monthly earnings reports are detailed and transparent. Highly recommend.',
+    text: 'KARM LIVING have managed my Edinburgh flat for over 2 years now. The communication is excellent, the cleaning is always immaculate, and the monthly earnings reports are detailed and transparent. Highly recommend.',
     property: '1-bed flat, Old Town Edinburgh',
     avatar: 'SM',
   },
@@ -25,7 +25,7 @@ const reviews = [
     location: 'Brighton',
     rating: 5,
     date: 'October 2024',
-    text: 'We were nervous about putting our property on Airbnb but HelloGuest made the whole process incredibly easy. They handled everything from the photography to guest communication. Our occupancy rate is consistently above 90%.',
+    text: 'We were nervous about putting our property on Airbnb but KARM LIVING made the whole process incredibly easy. They handled everything from the photography to guest communication. Our occupancy rate is consistently above 90%.',
     property: '3-bed house, Brighton',
     avatar: 'DT',
   },
@@ -34,7 +34,7 @@ const reviews = [
     location: 'Manchester',
     rating: 5,
     date: 'September 2024',
-    text: 'Switched to HelloGuest from a competitor 18 months ago and haven\'t looked back. The 12% commission is excellent value for the service provided. My income increased by over 40% in the first year alone.',
+    text: 'Switched to KARM LIVING from a competitor 18 months ago and haven\'t looked back. The 12% commission is excellent value for the service provided. My income increased by over 40% in the first year alone.',
     property: 'Studio apartment, Manchester City Centre',
     avatar: 'RK',
   },
@@ -52,7 +52,7 @@ const reviews = [
     location: 'Bath',
     rating: 5,
     date: 'July 2024',
-    text: 'After trying to self-manage for a year, I handed over to HelloGuest and the difference is night and day. Professional photography, better pricing, more bookings. My property now earns what it always should have been.',
+    text: 'After trying to self-manage for a year, I handed over to KARM LIVING and the difference is night and day. Professional photography, better pricing, more bookings. My property now earns what it always should have been.',
     property: '4-bed Georgian townhouse, Bath',
     avatar: 'MP',
   },
@@ -85,7 +85,7 @@ export default function Testimonials() {
           <h2 className="section-title">95% of Our Reviews Are 4 or 5 Stars</h2>
           <p className="section-subtitle">
             Don't just take our word for it. Here's what our property owners say about
-            working with HelloGuest.
+            working with KARM LIVING.
           </p>
         </div>
 
