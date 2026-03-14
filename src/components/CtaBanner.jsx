@@ -5,7 +5,7 @@ export default function CtaBanner() {
     <section className="cta-banner" id="contact">
       <div className="cta-banner__bg">
         <img
-          src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1600&q=80&auto=format&fit=crop"
+          src="https://as1.ftcdn.net/jpg/06/20/35/00/1000_F_620350073_NBlYDxGEUe9wXkEdZPCuwbdBy9A058oi.webp"
           alt="Beautiful property"
           className="cta-banner__image"
         />
